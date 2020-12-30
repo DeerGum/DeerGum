@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ## :mouse: Junior Developer 
-Android와 backend에 관심이 많은 주니어 개발자입니다.
+Android와 Backend에 관심이 많은 주니어 개발자입니다.
 
 :e-mail: hsk2454@gmail.com
 
 ## Skill
-- java
-- kotlin
+- Java
+- Kotlin
 - Android
 
 ## Project
