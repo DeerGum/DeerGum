@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ## :mouse: Junior Developer 
 Android와 Backend에 관심이 많은 주니어 개발자입니다.
 
-:e-mail: hsk2454@gmail.com
+:e-mail: hsk2454@naver.com
+
+:memo: [Github Blog](https://deergum.github.io/)
 
 ## Skill
 - Java
