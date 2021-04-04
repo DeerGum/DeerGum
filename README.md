@@ -34,3 +34,4 @@ Android와 Backend에 관심이 많은 주니어 개발자입니다.
 ## StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
 - [CS Study](https://github.com/Rave-Gum/CS-Study)
+- [Kotlin Study](https://github.com/Rave-Gum/Kotlin-Study)
