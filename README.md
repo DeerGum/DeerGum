@@ -23,13 +23,19 @@ Android와 Backend에 관심이 많은 주니어 개발자입니다.
 ## Skill
 - Java
 - Kotlin
-- Android
+- SQL
+- C
+- Python
 
 ## Project
 - [대학교 공지사항 알리미 (Android)](https://github.com/ppcomp/knu-notice-client)
     - 강원대학교 산학협력 프로젝트(2020)
 - [covid19-kr api NodeJs Pakage](https://github.com/bear-soup/covid19-kr)
     - 강원대학교 SW학습공동체 활동(2020)
+- [디스코드 봇 Rain_Bot](https://github.com/Rave-Gum/RG_Project)
+    - 토이 프로젝트(2021)
+- [KDC(Kangwon Developer Community)](https://github.com/Rave-Gum/KDC)
+    - 강원대 개발자 커뮤니티 웹사이트 개발중 (2021) 
 
 ## StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
