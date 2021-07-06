@@ -20,14 +20,17 @@ Android와 Backend에 관심이 많은 주니어 개발자입니다.
 
 :memo: [Github Blog](https://deergum.github.io/)
 
-## Skill
+## :running: Running
+SSAFY 6기(2021.07.07~)
+
+## :books: Skill
 - Java
 - Kotlin
 - SQL
 - C
 - Python
 
-## Project
+## :open_file_folder: Project
 - [대학교 공지사항 알리미 (Android)](https://github.com/ppcomp/knu-notice-client)
     - 강원대학교 산학협력 프로젝트(2020)
 - [covid19-kr api NodeJs Pakage](https://github.com/bear-soup/covid19-kr)
@@ -37,7 +40,7 @@ Android와 Backend에 관심이 많은 주니어 개발자입니다.
 - [KDC(Kangwon Developer Community)](https://github.com/Rave-Gum/KDC)
     - 강원대 개발자 커뮤니티 웹사이트 개발중 (2021) 
 
-## StudyRepositoy
+## :book: StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
 - [CS Study](https://github.com/Rave-Gum/CS-Study)
 - [Kotlin Study](https://github.com/Rave-Gum/Kotlin-Study)
