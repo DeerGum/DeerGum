@@ -37,8 +37,6 @@ SSAFY 6기(2021.07.07~)
     - 강원대학교 SW학습공동체 활동(2020)
 - [디스코드 봇 Rain_Bot](https://github.com/Rave-Gum/RG_Project)
     - 토이 프로젝트(2021)
-- [KDC(Kangwon Developer Community)](https://github.com/Rave-Gum/KDC)
-    - 강원대 개발자 커뮤니티 웹사이트 개발중 (2021) 
 
 ## :book: StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
