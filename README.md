@@ -21,7 +21,7 @@ Android, Backend에 관심이 많은 주니어 개발자입니다.
 :memo: [Github Blog](https://deergum.github.io/)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={hsk2454})](https://solved.ac/{hsk2454})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsk2454)](https://solved.ac/hsk2454)
 
 ## :running: Running
 SSAFY 6기(2021.07.07~)
