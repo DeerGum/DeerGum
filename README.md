@@ -36,10 +36,10 @@ SSAFY 6기(2021.07.07~)
 ## :open_file_folder: Project
 - [대학교 공지사항 알리미 (Android)](https://github.com/ppcomp/knu-notice-client)
     - 강원대학교 산학협력 프로젝트(2020)
-- [covid19-kr api NodeJs Pakage](https://github.com/bear-soup/covid19-kr)
-    - 강원대학교 SW학습공동체 활동(2020)
 - [디스코드 봇 Rain_Bot](https://github.com/Rave-Gum/RG_Project)
     - 토이 프로젝트(2021)
+- [HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
+    - 삼성청년SW아카데미 1학기 종합 프로젝트(2021)
 
 ## :book: StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
