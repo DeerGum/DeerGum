@@ -34,6 +34,7 @@ SSAFY 6기(2021.07.07~)
 
 ## :books: Skill
 ### language
+<p align="left">
 <img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=kotlin&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white"/>
@@ -41,10 +42,10 @@ SSAFY 6기(2021.07.07~)
 <img alt="HTML" src ="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img alt="CSS" src ="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=Javascript&logoColor=F7DF1E"/>
-
-<br>
+</p>
 
 ### Framework & Library
+<p align="left">
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat&logo=Spring&logoColor=white"/>
 <img alt="SpringBoot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat&logo=SpringBoot&logoColor=white"/>
 <img alt="Mybatis" src ="https://img.shields.io/badge/Mybatis-6DB33F.svg?&style=flat&logo=spring&logoColor=white"/>
@@ -53,10 +54,10 @@ SSAFY 6기(2021.07.07~)
 <img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
 <img alt="Jetpack Compose" src ="https://img.shields.io/badge/Android Jetpack Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white"/>
-
-<br>
+</p>
 
 ### Infra & Tools
+<p align="left">
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=gitHub&logoColor=white"/>
 <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=flat&logo=gitlab&logoColor=white"/>
@@ -66,7 +67,8 @@ SSAFY 6기(2021.07.07~)
 <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white"/>
 <img alt="Mattermost" src ="https://img.shields.io/badge/Mattermost-0058CC.svg?&style=flat&logo=mattermost&logoColor=white"/>
 <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=flat&logo=slack&logoColor=white"/>
-
+</p>
+    
 <br>
 
 ## :open_file_folder: Project
