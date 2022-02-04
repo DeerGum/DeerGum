@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 ## :mouse: Junior Developer 
-Backend개발자가 꿈인 주니어 개발자입니다.
+backend를 지향하는 주니어 개발자입니다.
+
+클린코드 짜는 것을 좋아해요.:blush:
 
 :e-mail: hsk2454@naver.com
 
 :memo: [Github Blog](https://deergum.github.io/)
-
-<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsk2454)](https://solved.ac/hsk2454)
@@ -78,6 +78,8 @@ SSAFY 6기(2021.07.07~)
     - 토이 프로젝트(2021)
 - [HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
     - 삼성청년SW아카데미 1학기 종합 프로젝트(2021)
+
+<br>
 
 ## :book: StudyRepositoy
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
