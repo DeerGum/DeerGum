@@ -28,7 +28,7 @@ backend를 지향하는 주니어 개발자입니다.
 <br>
 
 ## :running: Running
-SSAFY 6기(2021.07.07~)
+[삼성청년SW아카데미](https://www.ssafy.com/) 6기(2021.07.07~)
 
 <br>
 
@@ -85,3 +85,9 @@ SSAFY 6기(2021.07.07~)
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
 - [CS Study](https://github.com/Rave-Gum/CS-Study)
 - [Kotlin Study](https://github.com/Rave-Gum/Kotlin-Study)
+- [SSAFY_Algorithm_Study](https://github.com/ssafy6-nathan/algorithm-study)
+
+<br>
+
+## :page_with_curl: Certificate
+- 정보처리기사(2020.08)
