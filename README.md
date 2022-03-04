@@ -76,7 +76,7 @@ backend를 지향하는 주니어 개발자입니다.
     - 강원대학교 졸업작품 프로젝트(2020)
 - [서울아파트 매매정보 검색 서비스 - HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
     - 삼성청년SW아카데미 1학기 관통 프로젝트(2021)
-- [라이브 재능마켓플랫폼 - 재능시장](https://github.com/ssafy6-404-not-found/jaesi)
+- [라이브 재능마켓 플랫폼 - 재능시장](https://github.com/ssafy6-404-not-found/jaesi)
     - 삼성청년SW아카데미 2학기 공통 프로젝트(2022)
 
 <br>
