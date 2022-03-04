@@ -33,7 +33,7 @@ backend를 지향하는 주니어 개발자입니다.
 <br>
 
 ## :books: Skill
-### language
+### Language
 <p align="left">
 <img alt="Java" src ="https://img.shields.io/badge/Java-ED8B00.svg?&style=flat&logo=Java&logoColor=white"/>
 <img alt="kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=flat&logo=kotlin&logoColor=white"/>
@@ -72,12 +72,12 @@ backend를 지향하는 주니어 개발자입니다.
 <br>
 
 ## :open_file_folder: Project
-- [대학교 공지사항 알리미 (Android)](https://github.com/ppcomp/knu-notice-client)
-    - 강원대학교 산학협력 프로젝트(2020)
-- [디스코드 봇 Rain_Bot](https://github.com/Rave-Gum/RG_Project)
-    - 토이 프로젝트(2021)
-- [HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
-    - 삼성청년SW아카데미 1학기 종합 프로젝트(2021)
+- [강원대학교 공지사항 알리미 - 착한선배](https://github.com/ppcomp/knu-notice-client)
+    - 강원대학교 졸업작품 프로젝트(2020)
+- [서울아파트 매매정보 검색 서비스 - HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
+    - 삼성청년SW아카데미 1학기 관통 프로젝트(2021)
+- [라이브 재능마켓플랫폼 - 재능시장](https://github.com/ssafy6-404-not-found/jaesi)
+    - 삼성청년SW아카데미 2학기 공통 프로젝트(2022)
 
 <br>
 
@@ -85,7 +85,7 @@ backend를 지향하는 주니어 개발자입니다.
 - [Problem Solving Study](https://github.com/ppcomp/study-ps)
 - [CS Study](https://github.com/Rave-Gum/CS-Study)
 - [Kotlin Study](https://github.com/Rave-Gum/Kotlin-Study)
-- [SSAFY_Algorithm_Study](https://github.com/ssafy6-nathan/algorithm-study)
+- [SSAFY Algorithm Study](https://github.com/ssafy6-nathan/algorithm-study)
 
 <br>
 
