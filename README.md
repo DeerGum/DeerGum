@@ -86,7 +86,7 @@ backend를 지향하는 주니어 개발자입니다.
 - [CS Study](https://github.com/Rave-Gum/CS-Study)
 - [Kotlin Study](https://github.com/Rave-Gum/Kotlin-Study)
 - [SSAFY Algorithm Study](https://github.com/ssafy6-nathan/algorithm-study)
-- [SSAFY_CS-Study](https://github.com/ssafy6-nathan/cs-study)
+- [SSAFY CS Study](https://github.com/ssafy6-nathan/cs-study)
 
 <br>
 
