@@ -74,10 +74,13 @@ backend를 지향하는 주니어 개발자입니다.
 ## :open_file_folder: Project
 - [강원대학교 공지사항 알리미 - 착한선배](https://github.com/ppcomp/knu-notice-client)
     - 강원대학교 졸업작품 프로젝트(2020)
-- [서울아파트 매매정보 검색 서비스 - HappyHouse](https://github.com/ssafy6-happyhouse/happyhouse)
-    - 삼성청년SW아카데미 1학기 관통 프로젝트(2021)
 - [라이브 재능마켓 플랫폼 - 재능시장](https://github.com/ssafy6-404-not-found/jaesi)
     - 삼성청년SW아카데미 2학기 공통 프로젝트(2022)
+- [개발자 직군 추천 서비스 - 당신이 개발자라면](https://github.com/BigOTeam)
+    - 삼성청년SW아카데미 2학기 특화 프로젝트(2022)
+- 음식 추천 서비스 - 밥추
+    - 삼성청년SW아카데미 2학기 자율 프로젝트(2022)
+
 
 <br>
 
