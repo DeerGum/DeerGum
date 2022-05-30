@@ -78,7 +78,7 @@ backend를 지향하는 주니어 개발자입니다.
     - 삼성청년SW아카데미 2학기 공통 프로젝트(2022)
 - [개발자 직군 추천 서비스 - 당신이 개발자라면](https://github.com/BigOTeam)
     - 삼성청년SW아카데미 2학기 특화 프로젝트(2022)
-- 음식 추천 서비스 - 밥추
+- [음식 추천 서비스 - 밥추](https://github.com/Team-Chwimi/bobchoo_back-end)
     - 삼성청년SW아카데미 2학기 자율 프로젝트(2022)
 
 
