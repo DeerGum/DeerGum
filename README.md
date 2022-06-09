@@ -61,7 +61,8 @@ backend를 지향하는 주니어 개발자입니다.
 <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white"/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=gitHub&logoColor=white"/>
 <img alt="GitLab" src ="https://img.shields.io/badge/GitLab-FCA121.svg?&style=flat&logo=gitlab&logoColor=white"/>
-<img alt="docker" src ="https://img.shields.io/badge/Docker-0db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-0db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
+<img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-d24939.svg?&style=flat&logo=jenkins&logoColor=black"/>
 <img alt="AWS" src ="https://img.shields.io/badge/AWS EC2-ff9900.svg?&style=flat&logo=amazonaws&logoColor=white"/>
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=flat&logo=notion&logoColor=white"/>
 <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat&logo=jira&logoColor=white"/>
