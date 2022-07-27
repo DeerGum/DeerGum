@@ -27,11 +27,6 @@ backend를 지향하는 주니어 개발자입니다.
 
 <br>
 
-## :running: Running
-[삼성청년SW아카데미](https://www.ssafy.com/) 6기(2021.07.07~2022.06.30)
-
-<br>
-
 ## :books: Skill
 ### Language
 <p align="left">
