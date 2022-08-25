@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## :mouse: Junior Developer 
-backend를 지향하는 주니어 개발자입니다.
+주니어 백엔드 개발자입니다.
 
 클린코드 짜는 것을 좋아해요.:blush:
 
