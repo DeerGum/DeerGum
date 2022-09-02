@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 
 :e-mail: hsk2454@naver.com
 
-:memo: [Github Blog](https://deergum.github.io/)
+:memo: [Github Blog](https://deergum.github.io/) - 이전 블로그
+:memo: [Velog](https://velog.io/@hsk2454)
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hsk2454)](https://solved.ac/hsk2454)
