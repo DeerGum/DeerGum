@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 :e-mail: hsk2454@naver.com
 
-:memo: [Github Blog](https://deergum.github.io/) - 이전 블로그
-:memo: [Velog](https://velog.io/@hsk2454)
+:memo: [github blog (old)](https://deergum.github.io/)
+
+:memo: [velog (new)](https://velog.io/@hsk2454)
 
 
 [![Solved.ac
