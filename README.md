@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 ## :mouse: Junior Developer 
 부딪혀보면서 배우는 것을 좋아하는 주니어 백엔드 개발자입니다.
 
-클린코드를 짜는 것을 좋아해요.:blush:
-
-요즘엔 아키텍쳐에도 관심이 많습니다.
+클린코드를 지향하고 인프라 구축에도 관심이 많습니다.:blush:
 
 :e-mail: hsk2454@naver.com
 
