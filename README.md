@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 ## :mouse: Junior Developer 
 부딪혀보면서 배우는 것을 좋아하는 주니어 백엔드 개발자입니다.
 
-클린코드를 지향하고 인프라 구축에도 관심이 많습니다.:blush:
+클린코드를 지향하고 인프라 구축에도 관심이 많습니다.
+
+현재는 보안솔루션 백엔드개발자로 일하고 있습니다.
 
 :e-mail: hsk2454@naver.com
 
